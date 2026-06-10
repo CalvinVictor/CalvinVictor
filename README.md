@@ -1,147 +1,155 @@
-<!-- ===================================================== -->
-
-<!--                 CALVIN VICTOR README                  -->
-
-<!--              Premium Minimal · Apple Style            -->
-
-<!-- ===================================================== -->
-
 <div align="center">
+<br><br>
 
-# Calvin Victor
+<h1 style="font-size:2.2rem;font-weight:600;letter-spacing:-0.03em">Calvin Victor</h1>
 
-### Software Development Engineer · Full Stack Developer · GenAI Builder
-
-<p>
-  <a href="https://github.com/CalvinVictor">
-    <img src="https://img.shields.io/github/followers/CalvinVictor?style=flat-square&label=Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=CalvinVictor&style=flat-square&color=grey" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
+<p style="color:#6e6e73;font-size:0.9rem;letter-spacing:0.04em">
+SOFTWARE DEVELOPMENT ENGINEER &nbsp;·&nbsp; FULL STACK &nbsp;·&nbsp; GENAI
 </p>
 
-<p>
-Building enterprise-grade workflow automation, scalable web applications,
-and AI-powered products.
+<br>
+
+<p style="max-width:480px;margin:0 auto;color:#6e6e73;font-weight:300;line-height:1.7;font-size:0.95rem">
+Building enterprise-grade workflow automation, scalable web applications,<br>and AI-powered products. Based in Bengaluru.
 </p>
+
+<br>
+
+![](https://img.shields.io/badge/5%2B%20client%20projects-f5f5f7?style=flat-square&labelColor=f5f5f7&color=f5f5f7&logoColor=1d1d1f)
+![](https://img.shields.io/badge/30%2B%20workflows%20automated-f5f5f7?style=flat-square&color=f5f5f7)
+![](https://img.shields.io/badge/2%20research%20papers-f5f5f7?style=flat-square&color=f5f5f7)
+![](https://img.shields.io/badge/Open%20to%20opportunities-f5f5f7?style=flat-square&color=f5f5f7)
+
+<br><br>
 
 </div>
 
 ---
 
+<br>
 
-## Tech Stack
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 
-### AI & LLMs
+`JavaScript` &nbsp; `TypeScript` &nbsp; `Python` &nbsp; `PHP` &nbsp; `SQL` &nbsp; `HTML5` &nbsp; `CSS3`
 
-<p>
-<img src="https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai"/>
-<img src="https://img.shields.io/badge/Gemini-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mistral-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface"/>
-</p>
+</details>
 
-### Frontend
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss"/>
-</p>
+<details open>
+<summary><b>AI & LLMs</b></summary>
+<br>
 
-### Backend
+`OpenAI API` &nbsp; `Gemini` &nbsp; `LangChain` &nbsp; `Ollama` &nbsp; `Mistral` &nbsp; `HuggingFace` &nbsp; `Gradio`
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel"/>
-</p>
+</details>
 
-### Databases
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/>
-</p>
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
 
-### Cloud & DevOps
+`React.js` &nbsp; `Next.js` &nbsp; `Tailwind CSS` &nbsp; `Bootstrap`
 
-<p>
-<img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
-</p>
+</details>
 
-### Enterprise Automation
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Zoho_Creator-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deluge-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST_APIs-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Webhooks-black?style=flat-square"/>
-</p>
+<details open>
+<summary><b>Backend</b></summary>
+<br>
+
+`Node.js` &nbsp; `Express.js` &nbsp; `FastAPI` &nbsp; `Flask` &nbsp; `Laravel` &nbsp; `JWT` &nbsp; `OAuth` &nbsp; `REST APIs`
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+
+`PostgreSQL` &nbsp; `MySQL` &nbsp; `MongoDB`
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+
+`AWS` &nbsp; `Google Cloud` &nbsp; `Firebase` &nbsp; `Docker` &nbsp; `Git` &nbsp; `Postman`
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>Enterprise Automation</b></summary>
+<br>
+
+`Zoho Creator` &nbsp; `Deluge Scripting` &nbsp; `Workflow Automation` &nbsp; `Webhooks` &nbsp; `Power Apps`
+
+</details>
+
+<br>
 
 ---
 
+<br>
 
 ## GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CalvinVictor&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CalvinVictor&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&text_color=6e6e73&icon_color=1d1d1f&title_color=1d1d1f"/>
+&nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CalvinVictor&hide_border=true&background=00000000&stroke=e5e5ea&ring=1d1d1f&fire=1d1d1f&currStreakNum=1d1d1f&sideNums=1d1d1f&currStreakLabel=6e6e73&sideLabels=6e6e73&dates=aeaeb2"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CalvinVictor&hide_border=true"/>
+<br>
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinVictor&layout=compact&hide_border=true&bg_color=00000000&text_color=6e6e73&title_color=1d1d1f"/>
 
-<p align="center">
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinVictor&layout=compact&hide_border=true"/>
+<br>
 
-</p>
+---
+
+<br>
+NOTE 
+<br>
+> Most of my work involves enterprise applications and client systems built inside secure environments.
+> My GitHub reflects personal projects, research experiments, and a curated subset of what I build professionally.
+
+<br>
 
 ---
 
-## A Note About My GitHub
-
-Most of my day-to-day work involves enterprise applications, workflow automation, client systems, and business-critical software developed within secure environments.
-
-Because many of these projects are confidential, a significant portion of my engineering work cannot be published publicly.
-
-My GitHub showcases personal projects, research, experiments, and a subset of the systems I build professionally.
-
----
+<br>
 
 ## Connect
 
-<p>
-
 <a href="https://www.linkedin.com/in/calvinvictor51">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:calvinvic1611@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-1d1d1f?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/CalvinVictor">
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-1d1d1f?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
 ---
 
 <div align="center">
-
-*"Make it work. Make it right. Make it fast."*
-
+<sub><i>"Make it work. Make it right. Make it fast."</i></sub>
 </div>
