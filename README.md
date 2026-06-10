@@ -1,5 +1,4 @@
 <div align="center">
-<br><br>
 
 <h1 style="font-size:2.2rem;font-weight:600;letter-spacing:-0.03em">Calvin Victor</h1>
 
@@ -119,12 +118,19 @@ Building enterprise-grade workflow automation, scalable web applications,<br>and
 <br>
 
 ---
+<br>
 
-<br>
-NOTE 
-<br>
+<table>
+<tr>
+<td>
+
+> [!NOTE]
 > Most of my work involves enterprise applications and client systems built inside secure environments.
 > My GitHub reflects personal projects, research experiments, and a curated subset of what I build professionally.
+
+</td>
+</tr>
+</table>
 
 <br>
 
