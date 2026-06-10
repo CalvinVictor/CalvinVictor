@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Cals 👋</h1>
 <p align="center">
-  <strong>Full-Stack Developer • Zoho Creator & Deluge Specialist • GenAI & Agent Architect</strong>
+  <strong>Software Development Engineer • Zoho Creator & Deluge Specialist • GenAI & Agent Architect</strong>
 </p>
 
 <p align="center">
